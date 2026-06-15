@@ -1,0 +1,6 @@
+Permitiendo que distintas plataformas de software se comuniquen
+entre sí. En el contexto comunitario, actúan como el puente 
+invisible que centraliza y organiza el flujo de información, 
+unificando reportes dispersos en redes sociales y apps en un 
+solo panel de control accesible para todos.
+
